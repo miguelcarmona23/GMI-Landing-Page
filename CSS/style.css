@@ -252,6 +252,11 @@ h2 {
   grid-gap: 30px;
 }
 
+.services-title {
+  font-size: 25px;
+  margin: 40px 0 25px 0;
+}
+
 .block__text h4 {
   font-size: 25px;
   margin: 40px 0 25px 0;
